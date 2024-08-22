@@ -1,7 +1,7 @@
 👋 Hello,
-I'm AbhinavKR. I'm a passionate learner and developer from India. I'm enthusiastic about web development, cyber security, and Linux, and I have strong interest in various aspects of technology.
--
--  Here's a brief overview of my skills and interests:
+-I'm AbhinavKR. I'm a passionate learner and developer from India. I'm enthusiastic about web development, cyber security, and Linux, and I have strong interest in various aspects of technology.
+
+-Here's a brief overview of my skills and interests:
 -  ### Skills
 - **Programming Languages:** C, CPP(basic), Python
 - **Web Development:** HTML, CSS
