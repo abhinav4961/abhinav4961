@@ -10,6 +10,7 @@
 - **Operating Systems:** Linux, Bash scripting
 - **Version Control:** Git
 - **Design Tools:** Photoshop (basic), Figma (basic)
+- **Data Science Tools**: Google Colab
 
 ### Interests
 - **Web Development**
