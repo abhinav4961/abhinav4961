@@ -5,10 +5,8 @@
 -Here's a brief overview of my skills and interests:
 
 **Skills:** C, C++, Python, HTML, CSS, SQL, Linux, Bash scripting, Git, Photoshop, Figma, Google Colab.
-
-**Currently Exploring:** Advanced Web Development, Cyber Security Tools, Linux Customization , Basic Data Science.
-
-**Interests:** Web Development, Cyber Security, Linux, Open Source Projects.
+**Working On:** Advanced Web Development, Cyber Security Tools, Linux Customization , Basic Data Science.
+**Key Areas:** Web Development, Cyber Security, Linux, Open Source Projects.
 
 ## Contact
 Feel free to reach out:
