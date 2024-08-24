@@ -1,28 +1,12 @@
 
 ## 👋 Hello there,
--I'm AbhinavKR. I'm a passionate learner and developer from India. I'm enthusiastic about web development, cyber security, and Linux, and I have strong interest in various aspects of technology.
+-I'm AbhinavKR. a passionate learner and developer from India 🇮🇳. I'm enthusiastic about web development, cyber security, and Linux, and I'm always eager to explore new technologies.
 
 -Here's a brief overview of my skills and interests:
--  ### Skills
-- **Programming Languages:** C, CPP(basic), Python
-- **Web Development:** HTML, CSS
-- **Database:** SQL
-- **Operating Systems:** Linux, Bash scripting
-- **Version Control:** Git
-- **Design Tools:** Photoshop (basic), Figma (basic)
-- **Data Science Tools**: Google Colab
 
-### Interests
-- **Web Development**
-- **Cyber Security**
-- **Linux**
-- **Open Source Projects**
-
-## Currently Exploring
-I'm currently learning more about:
-- **Advanced Web Development**
-- **Cyber Security Tools**
-- **Linux Customization**
+**Skills:** C, C++, Python, HTML, CSS, SQL, Linux, Bash scripting, Git, Photoshop, Figma, Google Colab.
+**Currently Exploring:** Advanced Web Development, Cyber Security Tools, Linux Customization , Basic Data Science.
+**Interests:** Web Development, Cyber Security, Linux, Open Source Projects.
 
 ## Contact
 Feel free to reach out:
