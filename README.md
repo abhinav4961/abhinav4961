@@ -1,5 +1,5 @@
 
-## 👋 Hello there,
+## Hi there 👋
 -I'm Abhinav, a passionate learner and developer from India 🇮🇳. 
 I'm enthusiastic about web development, cyber security, and Linux, and I'm always eager to explore new technologies.
 
