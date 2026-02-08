@@ -1,9 +1,7 @@
 **⚙️ Hi there**
 
 I'm Abhinav, a learner-developer from India.  
-I like building things, breaking them, and understanding how they work.
-
-My interests include programming, security, and Linux, and I enjoy exploring new technologies through hands-on projects.
+My interests include programming, security, and Linux, and I enjoy exploring new technologies.
 
 **🛠️ Technical Skills**
 - **Programming Languages:** Python, HTML, CSS, C
